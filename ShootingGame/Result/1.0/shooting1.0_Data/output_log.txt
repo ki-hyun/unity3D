@@ -1,0 +1,38 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1333]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1015 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\work\ShootingGame\Result\1.0\shooting1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1430 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.712197 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.222367 ms (FindLiveObjects: 0.031100 ms CreateObjectMapping: 0.026746 ms MarkObjects: 0.149592 ms  DeleteObjects: 0.007775 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.936617 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.215525 ms (FindLiveObjects: 0.024880 ms CreateObjectMapping: 0.022703 ms MarkObjects: 0.160477 ms  DeleteObjects: 0.007153 ms)
+
